@@ -1,0 +1,45 @@
+.body {
+  background-color: rgb(7, 211, 247);
+}
+
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+.card {
+  padding-top: 30px;
+  margin-top: 30px;
+  padding-bottom: 35px;
+  margin-bottom: 30px;
+}
+
+#res {
+  color: rgb(85, 82, 82);
+}
+
+.copyright {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.name {
+  color: white;
+}
+
+#title {
+  color: teal;
+}
+
+button {
+  width: 100%;
+  height: 50px;
+}
+
+input {
+  height: 40px;
+}
